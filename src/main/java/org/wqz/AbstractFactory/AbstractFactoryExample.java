@@ -1,5 +1,7 @@
 package org.wqz.AbstractFactory;
 
+
+
 // 客户端代码
 public class AbstractFactoryExample {
     public static void createGUI(GUIFactory factory) {
